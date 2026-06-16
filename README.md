@@ -1,6 +1,8 @@
-# Hello World Blog
+# Triviality Space
 
 A simple static blog deployable with GitHub Pages.
+
+A place for the triviality of things.
 
 ## Local Preview
 
