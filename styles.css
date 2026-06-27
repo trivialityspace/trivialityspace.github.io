@@ -10,3 +10,18 @@ header,
 footer {
   margin: 32px 0;
 }
+
+.site-quote {
+  display: grid;
+  margin: 0;
+}
+
+.site-quote p {
+  margin-bottom: 4px;
+}
+
+.site-quote-author {
+  justify-self: end;
+  margin: 0 1rem 0 0;
+  font-style: italic;
+}
